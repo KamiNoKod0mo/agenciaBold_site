@@ -16,6 +16,8 @@ Uma aplicação web criada com React.
    npm install
    npm start
    ```
+## Aparencia
+
 ![Image](https://github.com/user-attachments/assets/f5519168-b8b7-4aa6-b41e-5f5fb5216ea1)
 
 ![Image](https://github.com/user-attachments/assets/e4959a5b-a08f-40e7-88f8-432d88a6df82)
