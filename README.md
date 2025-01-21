@@ -1,5 +1,5 @@
 # AgenciaBold
-Uma pagina web para um agencia ficticia.
+Uma pagina web para uma agencia ficticia.
 
 ## Tecnologias
 - HTML5
