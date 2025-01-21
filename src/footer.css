@@ -1,0 +1,28 @@
+footer{
+    padding:10px 0;
+   background: #255AFF;
+   color:white;
+}
+
+.text-footer{
+    width:50%;
+    padding:8px 0;
+}
+
+@media screen and (max-width: 768px) {
+    footer .items-menu{
+        width:100%;
+        text-align: center;
+    }
+    footer .items-menu a{
+        display: block;
+        margin:10px 0;
+        text-align: center;
+    }
+    .text-footer{
+        width:100%;
+        text-align: center;
+        padding:8px 0;
+    }
+    
+}

@@ -1,0 +1,97 @@
+section.depoimentos{
+    background-color: #FBFCFE;
+    padding:40px 0;
+}
+
+section.depoimentos > h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.container-slider{
+    overflow:hidden;
+    padding:40px 0;   
+}
+
+.container-slider-single{
+    float: left;
+    background-color:white;
+    text-align: center;
+    padding:15px;
+    border-radius:10px;
+}
+.container-slider-single img{
+    margin: 0 auto;
+}
+
+/* Aumenta o tamanho dos dots */
+.slick-dots li button {
+  width: 20px; /* Aumenta a largura */
+  height: 20px; /* Aumenta a altura */
+  border-radius: 50%; /* Deixa os dots redondos */
+  background-color: #007bff; /* Cor do dot */
+  border: none; /* Remove a borda padrão */
+  opacity: 1; /* Torna o dot completamente visível */
+}
+
+/* Altera o estilo do dot ativo */
+.slick-dots li.slick-active button {
+  background-color: black; /* Cor para o dot ativo */
+  transform: scale(0.8); /* Aumenta o tamanho do dot ativo */
+}
+
+.container-slider-single p{
+    margin:15px 0;
+    color:#7E92AC;
+    font-size: 14px;
+}
+
+section.contato{
+    padding:40px 0;
+    text-align: center;
+}
+
+section.contato h1{
+    font-size: 50px;
+}
+
+section.contato form{
+    width:100%;
+}
+
+
+.contato input[type=text],
+.contato input[type=email]
+{
+    width:100%;
+    height:50px;
+    margin:20px 0;
+    border-radius:10px;
+    background: #FCFDFF;
+    border: 1px solid #C3CCE8;
+    padding-left: 10px;
+}
+
+.contato textarea
+{
+    width:100%;
+    height:120px;
+    margin:20px 0;
+    border-radius:10px;
+    background: #FCFDFF;
+    border: 1px solid #C3CCE8;
+    padding: 10px;
+    resize: vertical;
+}
+
+.contato input[type=submit]{
+    width:100%;
+    height:50px;
+    display: block;
+    cursor: pointer;
+    border: 0;
+    background: #255AFF;
+    color:white;
+    font-size: 18px;
+    border-radius:10px;
+}
