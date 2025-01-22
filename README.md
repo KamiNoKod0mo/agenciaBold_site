@@ -11,8 +11,8 @@ Uma aplicação web criada com React.
 ## Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/my-react-app.git
-   cd my-react-app
+   git clone https://github.com/KamiNoKod0mo/agenciaBold_site/
+   cd agenciaBold_site
    npm install
    npm start
    ```
